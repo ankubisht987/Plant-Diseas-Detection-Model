@@ -1,0 +1,2 @@
+# Plant-Diseas-Detection-Model
+
